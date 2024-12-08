@@ -1,7 +1,5 @@
 # Video-Recommendation-Algorithm
 
-### Recommendation System Assignment - README  
-
 **Overview**  
 This project demonstrates the creation of a recommendation system using user interaction data and content information. The goal is to provide personalized content suggestions by implementing collaborative filtering, content-based filtering, and a hybrid model combining the two.  
 
