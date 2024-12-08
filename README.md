@@ -23,8 +23,5 @@ The system uses data retrieved from API endpoints, including:
 **Outcome**  
 The recommendation system effectively identifies and suggests posts that match user preferences, improving user engagement and content discovery.  
 
-**Acknowledgment**  
-This assignment opportunity was provided by **Persist Ventures**, and further selection will be based on the quality of this submission.  
-
 **Conclusion**  
 This project highlights the importance of combining user data and content analysis to build a robust recommendation system, showcasing the power of data-driven personalization.
